@@ -110,18 +110,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu1026&theme=onedark&no-bg=true&margin-w=10" />
-</p>
-
-
-
-
-
----
-
 
 
 ## 🔥 Contribution Graph
