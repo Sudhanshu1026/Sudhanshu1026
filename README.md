@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+  <img src="assets/github-banner.png" alt="Sudhanshu Singh Banner" width="1000" height="450" />
 </p>
 
 
