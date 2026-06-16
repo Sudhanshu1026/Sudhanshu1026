@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Singh</h1>
-<h3 align="center">🚀 4th Year IT Student | 💻 DSA Problem Solver | Frontend Developer | 🎨 UI/UX Explorer</h3>
+
+<h3 align="center">
+💻 Software Developer | 🧩 Problem Solver | 🤖 AI Automation Enthusiast
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
 </p>
-
 
 
 
@@ -19,14 +21,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **final year B.Tech Information Technology student**
-- ⚡ Practicing competitive programming to strengthen logic & algorithms
-- 🏆 Showcasing DSA problem-solving skills on LeetCode, GFG & other coding platforms
-- 🌱 Currently learning: **React.js, Tailwind CSS, Next.js, and more**
-- 🧠 Exploring backend with Node.js, Express.js and MongoDB
-- 🚀 Interested in system design & scalable architecture
-- 💡 Building real-world projects and improving UI/UX skills
-- 🔗 Open to collaboration on frontend/web projects
+- 🎓 B.Tech Graduate in Information Technology
+- 💻 Passionate about Software Development and Problem Solving
+- 🧩 Solved 500+ Data Structures & Algorithms problems
+- 🌐 Skilled in Frontend Development using HTML, CSS, and JavaScript
+- 🤖 Build AI Agents and Workflow Automations using n8n
+- 🔗 Familiar with REST APIs, JSON, JWT Authentication, Git, and GitHub
+- 🚀 Enjoy building practical solutions through software and automation
+- 🌱 Continuously learning and exploring new technologies
 
 ---
 
@@ -35,45 +37,56 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudhanshu-singh-666675273/)](https://www.linkedin.com/in/sudhanshu-singh-666675273/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudanshusingh1026@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sudhanshu-portfolio-theta.vercel.app)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
+
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### ⚙️ Backend & Dev Tools
+### 🤖 AI Automation
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-n8n-FF6D5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Workflow%20Automation-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AI%20Agents-7B42BC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-REST%20APIs-009688?style=for-the-badge" />
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Technologies
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/-GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-
-
 </p>
+
+### 📚 Core Concepts
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- SQL
+- AI & ML Fundamentals
+- Problem Solving
 
 ---
 
